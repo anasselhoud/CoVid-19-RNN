@@ -134,4 +134,4 @@ validate_predict = inverse_normalize_data(val_predict, scal)
 y_validate = inverse_normalize_data(y_validate, scal)
 
 
-To be continued (some issues to solve)
+#To be continued (some issues to solve)
